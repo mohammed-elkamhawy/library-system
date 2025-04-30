@@ -1,4 +1,4 @@
-##📚 Library Management System (Node.js + MongoDB)
+📚 Library Management System (Node.js + MongoDB)
 This is a simple console-based Library Management System built with Node.js and MongoDB using Mongoose. It allows you to manage members, books, and borrowing records from the terminal.
 
 ✅ No Express or frontend involved — just clear, functional terminal interaction.
